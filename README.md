@@ -3,6 +3,12 @@ GDK-ProgressBar
 
 ProgressBar for Glass GDK Menu Cards that look and work exactly like the ones Google Use.
 
+Examples:
+
+Indeterminate
+![Indeterminate Progress](https://lh6.googleusercontent.com/bqVm9ysRT2ukdy34nkZRoo5xXWEG0pbu7ohWubOz597WfCD7emmGg4kklvIkhF9vxOhfF_tarUI)
+
+
 To have the indeterminate progressbar:
 
 ```
