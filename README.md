@@ -7,11 +7,11 @@ Examples:
 
 Indeterminate
 
-![Indeterminate Progress](https://lh6.googleusercontent.com/bqVm9ysRT2ukdy34nkZRoo5xXWEG0pbu7ohWubOz597WfCD7emmGg4kklvIkhF9vxOhfF_tarUI)
+![Indeterminate Progress](http://1.bp.blogspot.com/-WlmMyIIZEv8/Us4n2PsEmoI/AAAAAAAAKZ8/IVUXtQ8NdSg/s1600/device-2014-01-08-212834.png)
 
 Progress
 
-![Indeterminate Progress](https://lh4.googleusercontent.com/ZulMxJoxh_hIdIJVwYQ_I87iyUjJ4Fdrn-pM2dSzrBa0aitOAzEOr1xeRNIxNzLdNYE0mBYO_1c)
+![Indeterminate Progress](http://2.bp.blogspot.com/-S8urgDIJ690/Us4n2NpOFEI/AAAAAAAAKZ4/Snewld6WnKo/s1600/device-2014-01-08-222839.png)
 
 
 To have the indeterminate progressbar:
