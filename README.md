@@ -45,7 +45,7 @@ To get the setting time create a call like this:
         public void onAnimationCancel(Animator animation)
         {
     
-    }
+        }
     
         @Override
         public void onAnimationRepeat(Animator animation)
