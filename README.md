@@ -6,7 +6,12 @@ ProgressBar for Glass GDK Menu Cards that look and work exactly like the ones Go
 Examples:
 
 Indeterminate
+
 ![Indeterminate Progress](https://lh6.googleusercontent.com/bqVm9ysRT2ukdy34nkZRoo5xXWEG0pbu7ohWubOz597WfCD7emmGg4kklvIkhF9vxOhfF_tarUI)
+
+Progress
+
+![Indeterminate Progress](https://lh4.googleusercontent.com/ZulMxJoxh_hIdIJVwYQ_I87iyUjJ4Fdrn-pM2dSzrBa0aitOAzEOr1xeRNIxNzLdNYE0mBYO_1c)
 
 
 To have the indeterminate progressbar:
