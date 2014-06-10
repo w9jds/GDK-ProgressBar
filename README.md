@@ -14,11 +14,11 @@ Progress
 ![Indeterminate Progress](http://2.bp.blogspot.com/-S8urgDIJ690/Us4n2NpOFEI/AAAAAAAAKZ4/Snewld6WnKo/s1600/device-2014-01-08-222839.png)
 
 
-To have the indeterminate progressbar:
+To show the indeterminate progressbar:
 
 ```
 
-    ProgressBar.startIndeterminate();
+    mSliderView.startIndeterminate();
 
 ```
 
@@ -26,7 +26,7 @@ To get the setting time create a call like this:
 
 ```
 
-    ProgressBar.startProgress(1000, new Animator.AnimatorListener()
+    mSliderView.startProgress(1000, new Animator.AnimatorListener()
     {
         @Override
         public void onAnimationStart(Animator animation)
