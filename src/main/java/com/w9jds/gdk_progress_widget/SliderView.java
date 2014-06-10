@@ -1,3 +1,4 @@
+package com.w9jds.gdk_progress_widget;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
